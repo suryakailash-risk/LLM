@@ -1,6 +1,4 @@
-Here’s a clean and professional **README.md** file you can use for your project:
 
----
 
 # 🦎 Qameleon — Question Answering with Transformers
 
