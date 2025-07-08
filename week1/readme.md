@@ -57,6 +57,6 @@ Surya Kailash Ramesh
 Run your Python file from the terminal:
 
 ```bash
-python qa_langchain.py
+python text_questions.py
 ```
 
