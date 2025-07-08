@@ -60,8 +60,12 @@ python Sentiment_Analysis.py
 Type `exit` to quit the program.
 
 ---
+## ✨ Author
 
+Surya Kailash Ramesh
 ## 📚 References
+
+---
 
 * [HuggingFace Transformers](https://huggingface.co/docs/transformers/index)
 * [DistilBERT SST-2 Model](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
