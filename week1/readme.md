@@ -50,7 +50,7 @@ pip install transformers
 
 ## ✨ Author
 
-Suryakaailash
+Surya Kailash Ramesh
 
 ### 🏃‍♀️ 4️⃣ Run the script
 
